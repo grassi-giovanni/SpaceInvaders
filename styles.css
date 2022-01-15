@@ -10,6 +10,24 @@ button {
 
 body {
 
-background-color: black;
+    background-color: black;
+
+}
+
+a {
+
+    color: black;
+    background-color: #39ff14;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p {
+
+    color: #39ff14;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 
 }
